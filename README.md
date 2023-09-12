@@ -1,3 +1,4 @@
+![logo](https://github.com/Raja-Farhan/Raja-Farhan/blob/main/Farhan-Farrukh.png)
 <h1 align="center">Hi 👋, I'm Farhan Farrukh</h1>
 <h3 align="center">A passionate Frontend Developer and aspiring Full Stack Developer from Pakistan</h3>
 
