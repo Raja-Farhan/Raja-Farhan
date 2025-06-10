@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Farhan Farrukh</h1>
 <h3 align="center">Cybersecurity Professional | Red Teamer | Bug Bounty Hunter</h3>
 
-<img align="right" alt="cybersecurity" width="400" src="[https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDc5dW4xaWM2c3FjcXIzMzhyZ3A3Ym15Y2MwdTV6NzZlcnBpeHZxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DqiMTFxiXx0VaVZQbF/giphy.gif]">
+<img align="right" alt="cybersecurity" width="400" src="https://github.com/Raja-Farhan/Raja-Farhan/blob/main/GIF.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raja-farhan&label=Profile%20views&color=0e75b6&style=flat" alt="raja-farhan" /> </p>
 
