@@ -1,6 +1,6 @@
 ![logo](https://github.com/Raja-Farhan/Raja-Farhan/blob/main/Farhan-cyber.jpg)
 <h1 align="center">Hi 👋, I'm Farhan Farrukh</h1>
-<h3 align="center">Cybersecurity Enthusiast | Red Teamer in Training | Former Frontend Dev from Pakistan 🇵🇰</h3>
+<h3 align="center">Cybersecurity Professional | Red Teamer | Bug Bounty Hunter</h3>
 
 <img align="right" alt="cybersecurity" width="400" src="https://media.giphy.com/media/3o7TKGMzFbH3nla96U/giphy.gif">
 
