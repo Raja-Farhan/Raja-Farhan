@@ -1,4 +1,4 @@
-![logo](https://github.com/Raja-Farhan/Raja-Farhan/blob/main/Farhan_Farrukh.jpg)
+![logo](https://github.com/Raja-Farhan/Raja-Farhan/blob/main/Farhan-cyber.jpg)
 <h1 align="center">Hi 👋, I'm Farhan Farrukh</h1>
 <h3 align="center">Cybersecurity Enthusiast | Red Teamer in Training | Former Frontend Dev from Pakistan 🇵🇰</h3>
 
